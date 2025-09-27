@@ -14,24 +14,3 @@ Pocket Notes is a lightweight and intuitive note-taking app built with React. It
 . React.js – Frontend framework
 . CSS – Styling and layout
 . Local Storage API – Data persistence
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/yourusername/pocket-notes.git
-
-
-Navigate to the project folder:
-
-cd pocket-notes
-
-
-Install dependencies:
-
-npm install
-
-
-Run the app:
-
-npm start
