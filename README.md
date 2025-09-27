@@ -4,9 +4,9 @@ Pocket Notes is a lightweight and intuitive note-taking app built with React. It
 
 ## ✨ Features
 
-. 📂 Create Note Groups – Keep your notes organized by grouping them however you like.
-. 🎨 Custom Colors – Personalize your groups with vibrant colors that match your style.
-. 💾 Local Storage Support – Notes are stored directly in your browser using the Local Storage API, ensuring instant access & persistence across sessions.
+. 📂 Create Note Groups – Keep your notes organized by grouping them however you like. \n
+. 🎨 Custom Colors – Personalize your groups with vibrant colors that match your style. /n
+. 💾 Local Storage Support – Notes are stored directly in your browser using the Local Storage API, ensuring instant access & persistence across sessions. /n
 . ⚡ Fast & Minimal – Built with React for a smooth and responsive experience.
 
 ## 🛠️ Tech Stack
